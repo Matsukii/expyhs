@@ -13,6 +13,8 @@ At the moment i working on mobile app(as my college project for one subject) and
 # TODO:
 Now is only possible to send and get temperature values, the idea is to have as many as possible sensors
 
+- upload arduino code, rest, sql, app (soon -> 15/10)
+- unify board data to database queryes in rest
 - add easier connection with wireless network (captive portal)
 - offline mode (connect and save data directly on app or localhost)
 - digital temperature sensor, bmp180/280 and dht22 support
