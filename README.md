@@ -1,6 +1,8 @@
+
+<center><img src="http://testinghost.gearhostpreview.com/ExpyhsIconNewIcon.png"></center>
+
 # expyhs
 hello there, this is my first project here so any help is welcome!
-
 
 # initial idea
 
