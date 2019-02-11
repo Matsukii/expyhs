@@ -32,4 +32,5 @@ Some things is in portuguese*
 if you read up to now and was interest, please consider give me a feedback!
 # Contact: 
 twitter: @omccbr
-discord server: discord.gg/scXpTr8
+discord: Nootiing#4537
+discord server: discord.gg/scXpTr8 
