@@ -3,7 +3,7 @@
 # expyhs
 hello there, this is my first project here so any help is welcome!
 
-<center><img src="https://imgur.com/Ju70aNA" style="width: 100px"></center>
+<center><img src="http://expyhs.ga/assets/icon/icon-v2/final-icon-v2-4x-whiteBg.png" style="width: 100px"></center>
 
 
 # initial idea
