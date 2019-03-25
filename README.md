@@ -2,7 +2,7 @@
 
 # eXpyhs
 
-<img src="http://expyhs0.000webhostapp.com/assets/icons/eXpyhs-icon-v2/nobg/final-icon-v2-4x-nobg.png" style="width:10px">
+<img src="http://expyhs0.000webhostapp.com/assets/icons/eXpyhs-icon-v2/nobg/final-icon-v2-nobg.svg"  width="20%" > 
 
 
 # What is
