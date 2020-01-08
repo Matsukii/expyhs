@@ -2,6 +2,8 @@
 
 # eXpyhs
 
+## THIS PROJECT WAS FREEZED AND WILL BE CONTINUED IN (hcontrol)[https://github.com/matsukii/hcontrol]
+
 <img src="http://expyhs0.000webhostapp.com/assets/icons/eXpyhs-icon-v2/nobg/final-icon-v2-nobg.svg"  width="20%" > 
 
 
@@ -20,5 +22,5 @@ Some things is in portuguese*
 if you read up to now and was interest, please consider give me a feedback!
 # Contact: 
 twitter: @omccbr
-discord: Nootiing#4537
+discord: Matsukii#4537
 discord server: discord.gg/scXpTr8 
